@@ -1,6 +1,8 @@
 # Dexar - Car Company Landing Page
 
-<img src="assets/md/Dexar_landing_page.png" alt="Dexar Project Screenshot" width="600"/>
+<p align="center">
+  <img src="assets/md/Dexar_landing_page.png" alt="Dexar Project Screenshot" width="600"/>
+</p>
 
 A static landing page for "Dexar," a conceptual car sales company. This project was my first complete website built in **December 2024** after learning the fundamentals of HTML and CSS, with a focus on a desktop-first design.
 
@@ -34,5 +36,5 @@ The page features a modern design, a product showcase, and a separate login page
 
 1.  **Live Demo:** The easiest way is to visit the **Live Demo** link above (best viewed on a desktop).
 2.  **Locally:**
-    -   Clone the repository: `git clone https://github.com/abdou-agiba/Dexar_landing-page.git`
+    -   Clone the repository: `git clone https://github.com/abdou-agiba/Dexar_landing_page.git`
     -   Open the `index.html` file in your web browser.
