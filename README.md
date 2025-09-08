@@ -1,6 +1,6 @@
 # Dexar - Car Company Landing Page
 
-![Dexar Project Screenshot](ADD_YOUR_IMAGE_URL_HERE)
+![Dexar Project Screenshot](assets/md/Dexar_landing_page.png)
 
 A static landing page for "Dexar," a conceptual car sales company. This project was my first complete website built after learning the fundamentals of HTML and CSS, with a focus on a desktop-first design.
 
