@@ -2,7 +2,7 @@
 
 ![Dexar Project Screenshot](assets/md/Dexar_landing_page.png)
 
-A static landing page for "Dexar," a conceptual car sales company. This project was my first complete website built after learning the fundamentals of HTML and CSS, with a focus on a desktop-first design.
+A static landing page for "Dexar," a conceptual car sales company. This project was my first complete website built in **December 2024** after learning the fundamentals of HTML and CSS, with a focus on a desktop-first design.
 
 The page features a modern design, a product showcase, and a separate login page template.
 
