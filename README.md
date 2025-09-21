@@ -12,7 +12,7 @@ The page features a modern design, a product showcase, and a separate login page
 
 ### Live Demo
 
-> You can view the live version of the project **[here](https://abdou-agiba.github.io/Dexar_landing-page/ )**.
+> You can view the live version of the project **[here](https://4jib0x.github.io/Dexar_landing-page/ )**.
 
 ---
 
